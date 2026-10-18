@@ -1,6 +1,6 @@
 # saddle-legal
 
-Public legal pages for the Saddle cycling training app, served by GitHub Pages:
+Public legal pages for the Spedora cycling training app, served by GitHub Pages:
 
 - Privacy policy: `privacy/index.html` → https://ctfle.github.io/saddle-legal/privacy/
 - Impressum: `imprint/index.html` → https://ctfle.github.io/saddle-legal/imprint/
